@@ -282,7 +282,7 @@ tg_multi_bot/
 ### 获取帮助
 
 - 📖 查看完整文档（本README）
-- [开发者](https://t.me/SerokBot_bot)
+- [开发者](https://t.me/kelebingbot)
 
 ### 报告问题
 
@@ -311,5 +311,5 @@ MIT License - 自由使用，保留版权声明
 - **Python版本**: 3.11+
 
 ---
-
+- **感谢原作者**: serok VIP
 **Made with ❤️ for Telegram Bot Lovers**
